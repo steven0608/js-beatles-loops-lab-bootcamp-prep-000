@@ -21,7 +21,7 @@ if(i<8){
   do{newLove.push("I love the Beatles!");
 i++;
 }
-while (i<15);
+while (i<17);
 }
 else { var i=0;
   newLove.push("I love the Beatles!");
