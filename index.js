@@ -28,3 +28,12 @@ else { var i=0;
 }
 return newLove;
 }
+var musicians=["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
+var instruments=["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
+for (var i =0;i<musicians.length;i++){
+console.log(musicians[i]+" plays "+instruments[i])}
+}
+
+function johnLennonFacts(){};
+
+function iLoveTheBeatles(){};
