@@ -23,7 +23,7 @@ i++;
 }
 while (i<15);
 }
-else { var i=0;
+else { 
   newLove.push("I love the Beatles!");
 }
 return newLove;
