@@ -17,7 +17,7 @@ function johnLennonFacts(facts){
 }
 function iLoveTheBeatles(i){
 const newLove=[];
-if(i<9){
+if(i<6){
   do{newLove.push("I love the Beatles!");
 i++;
 }
