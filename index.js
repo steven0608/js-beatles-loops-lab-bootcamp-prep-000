@@ -21,7 +21,7 @@ if(i<6){
   do{newLove.push("I love the Beatles!");
 i++;
 }
-while (i<15);
+while (i<10);
 }
 else { var i=0;
   newLove.push("I love the Beatles!");
